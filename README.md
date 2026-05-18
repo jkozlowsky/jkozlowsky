@@ -23,8 +23,8 @@ I'm a 3rd year student of Applied Computer Science at Lodz University of Technol
 #### Tools 
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96" alt="git" /> &nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=96" alt="docker" /> &nbsp;
-<img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=96&color=%23ef4444" alt="jenkins" />
-
+<img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=96&color=%23ef4444" alt="jenkins" /> &nbps;
+<img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=96" alt="linux" />
 ---
 
 ### You may contact me here:
