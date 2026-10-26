@@ -2,7 +2,7 @@
 
 ## My name is Janek and I'm glad that you have stumbled upon my profile.
 
-I'm a 3rd year student of Applied Computer Science at Lodz University of Technology, pursuing a specialization in Network Infrastructure and Applications. Currently, I'm seeking my first professional industry experience to further expand my knowledge and sharpen my capabilities.
+I'm a 4th year student of Applied Computer Science at Lodz University of Technology, pursuing a specialization in Network Infrastructure and Applications. Currently, I'm seeking my first professional industry experience to further expand my knowledge and sharpen my capabilities.
 
 ---
 
