@@ -14,7 +14,8 @@ I'm a 4th year student of Applied Computer Science at Lodz University of Technol
 <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=96" alt="python" /> &nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96" alt="postgresql" /> &nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=hibernate&size=96&color=%233b82f6" alt="hibernate" /> &nbsp;
-<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96" alt="mongodb" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96" alt="mongodb" /> &nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=golang&size=96" alt="golang" />
 
 #### Frontend
 <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96" alt="javascript" /> &nbsp;
@@ -23,7 +24,9 @@ I'm a 4th year student of Applied Computer Science at Lodz University of Technol
 #### Tools 
 <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96" alt="git" /> &nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=96" alt="docker" /> &nbsp;
+<img src="https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=96" alt="kubernetes" /> &nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=96&color=%23ef4444" alt="jenkins" /> &nbsp; 
+<img src="https://www.readmecodegen.com/api/social-icon?name=terraform&size=96" alt="terraform" /> &nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=96" alt="linux" />
 ---
 
