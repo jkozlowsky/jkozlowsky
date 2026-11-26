@@ -1,8 +1,9 @@
 # Hello there,
 
 ## My name is Janek and I'm glad that you have stumbled upon my profile.
----
+
 I'm a 4th year student of Applied Computer Science at Lodz University of Technology, pursuing a specialization in Network Infrastructure and Applications. I'm the first programmer in my family, so I'm usually the one people call when the printer stops working. That's why I care about making things that are simple to use for people who aren't techies.
+
 ---
 
 ### My Stack
@@ -27,6 +28,7 @@ I'm a 4th year student of Applied Computer Science at Lodz University of Technol
 <img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=96&color=%23ef4444" alt="jenkins" /> &nbsp; 
 <img src="https://www.readmecodegen.com/api/social-icon?name=terraform&size=96" alt="terraform" /> &nbsp;
 <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=96" alt="linux" />
+
 ---
 
 ### You may contact me here:
