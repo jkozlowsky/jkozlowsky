@@ -1,7 +1,7 @@
 # Hello there,
 
 ## My name is Janek and I'm glad that you have stumbled upon my profile.
-
+---
 I'm a 4th year student of Applied Computer Science at Lodz University of Technology, pursuing a specialization in Network Infrastructure and Applications. I'm the first programmer in my family, so I'm usually the one people call when the printer stops working. That's why I care about making things that are simple to use for people who aren't techies.
 ---
 
